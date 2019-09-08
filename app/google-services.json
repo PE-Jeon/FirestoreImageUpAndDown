@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "863116488209",
+    "firebase_url": "https://fir-image-78ab8.firebaseio.com",
+    "project_id": "fir-image-78ab8",
+    "storage_bucket": "fir-image-78ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863116488209:android:879b79311c6854a9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863116488209-c0n0s1puo26sta02mo1jsug8qgepdgne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseimage",
+            "certificate_hash": "117233e0a1cba83d20743bf7b149f20208d68004"
+          }
+        },
+        {
+          "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSVuHIIcR7Dm65nymbcB7TcBdQJEGbGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863116488209:android:e36669f6c1b87371580bb0",
+        "android_client_info": {
+          "package_name": "com.frentree.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSVuHIIcR7Dm65nymbcB7TcBdQJEGbGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863116488209:android:58be16e9171f7820580bb0",
+        "android_client_info": {
+          "package_name": "com.frentree.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSVuHIIcR7Dm65nymbcB7TcBdQJEGbGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863116488209-tllkelrrtekskh6fsjik7pd3opj2h26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
